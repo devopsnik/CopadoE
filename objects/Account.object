@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Test_Devops__c</fullName>
+        <description>Test deploy gearset-Devops</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Test devops</inlineHelpText>
+        <label>Test_Devops</label>
+        <length>80</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>
